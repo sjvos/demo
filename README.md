@@ -2,7 +2,7 @@
 
 Sample project for [Getting started with Git through the command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
 
-## Steps
+## Steps Ja ja door Simon
 
 1. Fork this project into your username. To do so, click **Fork** form this
    project's [home page](https://gitlab.com/gitlab-tests/sample-project/):
